@@ -24,7 +24,7 @@ body {
 
 /* Navegación */
 .navbar {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #0d9488 0%, #164e63 100%);
     padding: 1rem 0;
     position: fixed;
     top: 0;
@@ -87,7 +87,7 @@ body {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(135deg, #2d1b69 0%, #4a148c 50%, #7c4dff 100%);
+    background: linear-gradient(135deg, #0c4a6e 0%, #0d9488 50%, #14b8a6 100%);
     color: white;
     padding: 180px 0 60px;
     text-align: center;
@@ -115,7 +115,7 @@ body {
     font-size: 1.4rem;
     font-weight: 600;
     margin-bottom: 1rem;
-    color: #fff3cd;
+    color: #5eead4;
 }
 
 .hero-content p {
@@ -146,11 +146,11 @@ body {
 
 .info-item i {
     font-size: 1.2rem;
-    color: #fff3cd;
+    color: #5eead4;
 }
 
 .cta-button {
-    background: linear-gradient(45deg, #ff6b6b, #ee5a52);
+    background: linear-gradient(45deg, #f97316, #ea580c);
     color: white;
     border: none;
     padding: 18px 40px;
@@ -159,13 +159,13 @@ body {
     border-radius: 50px;
     cursor: pointer;
     transition: all 0.3s ease;
-    box-shadow: 0 6px 20px rgba(255,107,107,0.4);
+    box-shadow: 0 6px 20px rgba(249,115,22,0.4);
     margin: 2rem 0;
 }
 
 .cta-button:hover {
     transform: translateY(-3px);
-    box-shadow: 0 8px 25px rgba(255,107,107,0.6);
+    box-shadow: 0 8px 25px rgba(249,115,22,0.6);
 }
 
 .organizers {
@@ -197,7 +197,7 @@ body {
     font-weight: 700;
     text-align: center;
     margin-bottom: 1rem;
-    background: linear-gradient(135deg, #7c4dff 0%, #b388ff 100%);
+    background: linear-gradient(135deg, #14b8a6 0%, #0d9488 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -239,7 +239,7 @@ body {
 
 .feature-item i {
     font-size: 1.4rem;
-    color: #7c4dff;
+    color: #14b8a6;
     margin-top: 5px;
 }
 
@@ -275,7 +275,7 @@ body {
 }
 
 .industry-context {
-    background: linear-gradient(135deg, #2d1b69 0%, #4a148c 50%, #7c4dff 100%);
+    background: linear-gradient(135deg, #0c4a6e 0%, #0d9488 50%, #14b8a6 100%);
     color: white;
     padding: 40px;
     border-radius: 20px;
@@ -307,7 +307,7 @@ body {
 .stat-number {
     font-size: 2.5rem;
     font-weight: 700;
-    color: #fff3cd;
+    color: #5eead4;
     margin-bottom: 10px;
     display: block;
 }
@@ -353,7 +353,7 @@ body {
 
 .impact-item i {
     font-size: 1.4rem;
-    color: #7c4dff;
+    color: #14b8a6;
     margin-top: 5px;
 }
 
@@ -373,7 +373,7 @@ body {
 }
 
 .mission-box {
-    background: linear-gradient(135deg, #2d1b69 0%, #4a148c 50%, #7c4dff 100%);
+    background: linear-gradient(135deg, #0c4a6e 0%, #0d9488 50%, #14b8a6 100%);
     color: white;
     padding: 30px;
     border-radius: 15px;
@@ -429,7 +429,7 @@ body {
 
 .risk-item i {
     font-size: 1.5rem;
-    color: #ff6b6b;
+    color: #f97316;
     margin-top: 5px;
 }
 
@@ -460,7 +460,7 @@ body {
     top: 0;
     bottom: 0;
     width: 4px;
-    background: linear-gradient(135deg, #7c4dff 0%, #b388ff 100%);
+    background: linear-gradient(135deg, #14b8a6 0%, #0d9488 100%);
     transform: translateX(-50%);
 }
 
@@ -481,7 +481,7 @@ body {
 .timeline-number {
     width: 60px;
     height: 60px;
-    background: linear-gradient(135deg, #7c4dff 0%, #b388ff 100%);
+    background: linear-gradient(135deg, #14b8a6 0%, #0d9488 100%);
     color: white;
     border-radius: 50%;
     display: flex;
@@ -493,7 +493,7 @@ body {
     left: 50%;
     transform: translateX(-50%);
     z-index: 2;
-    box-shadow: 0 4px 15px rgba(124,77,255,0.4);
+    box-shadow: 0 4px 15px rgba(20,184,166,0.4);
 }
 
 .timeline-content {
@@ -520,7 +520,7 @@ body {
 }
 
 .timeline-duration {
-    color: #667eea;
+    color: #0d9488;
     font-weight: 600;
     margin-bottom: 15px;
 }
@@ -558,7 +558,7 @@ body {
 
 .component-item i {
     font-size: 1.4rem;
-    color: #7c4dff;
+    color: #14b8a6;
     margin-top: 5px;
 }
 
@@ -612,8 +612,8 @@ body {
     padding: 20px 30px;
     border-radius: 25px;
     box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-    border: 2px solid #7c4dff;
-    color: #7c4dff;
+    border: 2px solid #14b8a6;
+    color: #14b8a6;
     font-weight: 600;
     text-align: center;
     min-width: 180px;
@@ -641,7 +641,7 @@ body {
 }
 
 .schedule-header {
-    background: linear-gradient(135deg, #7c4dff 0%, #b388ff 100%);
+    background: linear-gradient(135deg, #14b8a6 0%, #0d9488 100%);
     color: white;
     font-weight: 700;
 }
@@ -694,7 +694,7 @@ body {
 }
 
 .resource-category h4 {
-    color: #667eea;
+    color: #0d9488;
     margin: 20px 0 10px 0;
     font-size: 1.1rem;
 }
@@ -711,13 +711,13 @@ body {
 
 .resource-category li::before {
     content: '•';
-    color: #7c4dff;
+    color: #14b8a6;
     position: absolute;
     left: 0;
 }
 
 .resource-category a {
-    color: #7c4dff;
+    color: #14b8a6;
     text-decoration: none;
 }
 
@@ -739,7 +739,7 @@ body {
     border-radius: 20px;
     box-shadow: 0 10px 30px rgba(0,0,0,0.1);
     text-align: center;
-    border: 3px solid #7c4dff;
+    border: 3px solid #14b8a6;
 }
 
 .reglamento-header {
@@ -752,7 +752,7 @@ body {
 
 .reglamento-header i {
     font-size: 2rem;
-    color: #7c4dff;
+    color: #14b8a6;
 }
 
 .reglamento-header h3 {
@@ -765,7 +765,7 @@ body {
     display: inline-flex;
     align-items: center;
     gap: 10px;
-    background: linear-gradient(135deg, #7c4dff 0%, #b388ff 100%);
+    background: linear-gradient(135deg, #14b8a6 0%, #0d9488 100%);
     color: white;
     text-decoration: none;
     padding: 15px 30px;
@@ -773,12 +773,12 @@ body {
     font-weight: 600;
     transition: all 0.3s ease;
     margin-top: 20px;
-    box-shadow: 0 6px 20px rgba(124,77,255,0.4);
+    box-shadow: 0 6px 20px rgba(20,184,166,0.4);
 }
 
 .reglamento-button:hover {
     transform: translateY(-3px);
-    box-shadow: 0 8px 25px rgba(124,77,255,0.6);
+    box-shadow: 0 8px 25px rgba(20,184,166,0.6);
     color: white;
 }
 
@@ -811,7 +811,7 @@ body {
 
 .highlight-item i {
     font-size: 1.3rem;
-    color: #7c4dff;
+    color: #14b8a6;
     margin-top: 3px;
 }
 
@@ -863,7 +863,7 @@ body {
 }
 
 .faq-item h4 {
-    color: #7c4dff;
+    color: #14b8a6;
     margin-bottom: 10px;
     font-size: 1.1rem;
 }
@@ -886,7 +886,7 @@ body {
 
 .faq-item li::before {
     content: '•';
-    color: #7c4dff;
+    color: #14b8a6;
     position: absolute;
     left: 0;
 }
@@ -906,11 +906,11 @@ body {
     text-align: center;
     max-width: 600px;
     width: 100%;
-    border: 3px solid #7c4dff;
+    border: 3px solid #14b8a6;
 }
 
 .contact-card h3 {
-    color: #7c4dff;
+    color: #14b8a6;
     margin-bottom: 10px;
     font-size: 1.8rem;
 }
@@ -937,11 +937,11 @@ body {
     text-decoration: none;
     color: #333;
     transition: all 0.3s ease;
-    border-left: 4px solid #7c4dff;
+    border-left: 4px solid #14b8a6;
 }
 
 .contact-link:hover {
-    background: #7c4dff;
+    background: #14b8a6;
     color: white;
     transform: translateX(5px);
     text-decoration: none;
@@ -949,7 +949,7 @@ body {
 
 .contact-link i {
     font-size: 1.3rem;
-    color: #7c4dff;
+    color: #14b8a6;
     width: 20px;
     text-align: center;
 }
